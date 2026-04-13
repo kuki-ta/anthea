@@ -40,7 +40,7 @@ off-topic (bypassed on distress) → provider guidance → research answer.
 migration planned before public launch.
 
 **Netlify Function proxy**: The Anthropic API key is never exposed to the
-client. All AI requests route through `netlify/functions/with-anthea.js`.
+client. All AI requests route through a proxied Netlify function.
 
 ---
 
