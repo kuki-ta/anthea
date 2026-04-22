@@ -1,6 +1,8 @@
 # anthea
 
-A platform connecting everyone touched by PMDD through curated peer-reviewed research, plain-language access, and tools for participation and trust.
+Anthea is a passion project inspired by lived experience in my family and by my work with the Crisis Text Line over the course of the past year. 
+
+It is a platform connecting people touched by PMDD through curated peer-reviewed research, plain-language access, and tools for participation and trust.
 
 ---
 ![Ask-Anthea](anthea-home.png) 
